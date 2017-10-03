@@ -1,7 +1,10 @@
 <!--
 name: bundle exec fastlane appstore
 description: appstore build
+author: Go Team
+authorinfo: http://support.thoughtworks.com/categories/20002778-go-community-support
 keywords: fastlane, appstore
+moreinfo: http://gembundler.com/v1.2/rails3.html
 -->
 <exec command="bundle"> 
 	<arg>exec</arg>
